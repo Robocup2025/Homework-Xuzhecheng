@@ -3,7 +3,7 @@
 本项目基于 **YOLOv8** 框架，专门用于 RoboCup 比赛中的物体识别任务（如：洗发水、饼干等超市货架物品的自动检测与定位）。
 
 -----
-
+**本yolo项目由人智2501许哲诚和计算机2501石澄錡合作完成**
 ## 🎬 视频demo
 
 <video src="https://github.com/Robocup2025/Shichengqi_Robocup/blob/main/demo_1.mp4" width="800" controls></video>
